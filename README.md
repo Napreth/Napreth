@@ -77,3 +77,4 @@
 </div>
 
 <!-- Ugh, this README is such a hassle, I would like to write an Action to automate its updates later. -->
+<!-- Discussions and Projects are well-suited for this, I think, and pinned repositories can also serve as a data source. -->
