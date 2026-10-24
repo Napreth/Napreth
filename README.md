@@ -27,14 +27,21 @@
 - 🎬 **[Bilibili-style-PotPlayer](https://github.com/Napreth/Bilibili-style-PotPlayer)** — The core player behavior is ready; danmaku and settings still need work.
 - 🔬 **Agent safety research** — Working through some tricky problems. QAQ
 
-## Featured projects
+
+## My projects
+
+
+## Projects
+
+<details open>
+<summary>⭐ Featured Projects</summary>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Napreth/Bilibili-style-PotPlayer"><b>Bilibili-style-PotPlayer</b></a><br/>
+<a href="https://github.com/Napreth/BilibiliUI-for-PotPlayer"><b>BilibiliUI-for-PotPlayer</b></a><br/>
 <sub>A Bilibili-inspired skin and companion app for PotPlayer, featuring redesigned controls, keyboard shortcuts, subtitles, and danmaku.</sub><br/>
-<sub>C#</sub>
+<sub>C# · ☆1</sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Napreth/PathMan"><b>PathMan</b></a><br/>
@@ -54,6 +61,32 @@
 <sub>Python</sub>
 </td>
 </tr>
+</table>
+</details>
+
+<details>
+<summary>🛠️ Developer Tools & Utilities</summary>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Napreth/silauncher"><b>silauncher</b></a><br/>
+<sub>A lightweight Windows launcher that suppresses startup windows and minimizes or closes them automatically.</sub><br/>
+<sub>C++</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Napreth/Cloud-Compilation"><b>Cloud-Compilation</b></a><br/>
+<sub>A cloud compilation workflow using Alibaba Cloud ECS, Function Compute, and GitHub Actions.</sub><br/>
+<sub>Python</sub>
+</td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary>📱 Android Tools</summary>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Napreth/Set-for-U"><b>Set-for-U</b></a><br/>
@@ -61,12 +94,32 @@
 <sub>Kotlin</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Napreth/silauncher"><b>silauncher</b></a><br/>
-<sub>A lightweight Windows launcher that suppresses startup windows and minimizes or closes them automatically.</sub><br/>
-<sub>C++</sub>
+<a href="https://github.com/Napreth/Do-I-Have"><b>Do-I-Have</b></a><br/>
+<sub>An Android toolkit for inspecting app permissions and AppOps, with detailed access states and filtering.</sub><br/>
+<sub>Kotlin</sub>
 </td>
 </tr>
 </table>
+</details>
+
+<details>
+<summary>🌐 Web Enhancements</summary>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Napreth/StarPicker"><b>StarPicker</b></a><br/>
+<sub>A userscript that brings advanced filtering and search capabilities to GitHub Stars and Star Lists.</sub><br/>
+<sub>JavaScript</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Napreth/doubao-dark"><b>doubao-dark</b></a><br/>
+<sub>A userscript that adds dark mode and theme switching to the Doubao web interface.</sub><br/>
+<sub>JavaScript</sub>
+</td>
+</tr>
+</table>
+</details>
 
 ---
 
