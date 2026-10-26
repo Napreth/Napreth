@@ -80,6 +80,13 @@
 <sub>Python</sub>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Napreth/AnyBundle"><b>AnyBundle</b></a><br/>
+<sub>Package Windows, Linux, and macOS binaries into a single self-extracting sh/PowerShell polyglot script.</sub><br/>
+<sub>C</sub>
+</td>
+</tr>
 </table>
 </details>
 
@@ -109,7 +116,7 @@
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Napreth/StarPicker"><b>StarPicker</b></a><br/>
-<sub>A userscript that brings advanced filtering and search capabilities to GitHub Stars and Star Lists.</sub><br/>
+<sub>Add Issues-style advanced filtering and Boolean queries to GitHub Stars, including lists, topics, and languages.</sub><br/>
 <sub>JavaScript</sub>
 </td>
 <td width="50%" valign="top">
